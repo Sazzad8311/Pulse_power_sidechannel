@@ -1,0 +1,12 @@
+cff-version: 1.2.0
+message: "If you use these artifacts, please cite the PULSE paper."
+title: "PULSE: Recovering Neural Network Architectures from Power Telemetry"
+authors:
+  - family-names: Sourab
+    given-names: Mohammed Sazzad Yousuf
+    affiliation: Lamar University
+  - family-names: Ferdaus
+    given-names: Farah
+    affiliation: Lamar University
+repository-code: "https://github.com/<USER>/pulse-power-sidechannel"
+license: MIT
