@@ -1,0 +1,13 @@
+# Core analysis (sufficient to re-run layer recovery from the released traces)
+numpy>=1.24
+scipy>=1.10
+pandas>=2.0
+matplotlib>=3.7
+jupyter
+
+# Profiling only (needs an NVIDIA GPU exposing NVML)
+torch>=2.0
+torchvision>=0.15
+transformers>=4.30
+datasets>=2.12
+py3nvml>=0.2.7
